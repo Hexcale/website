@@ -1,0 +1,37 @@
+body
+{
+    background-color: #2f2f41;
+    color: white;
+    font-size: 1.2em;
+}
+
+.card{
+    margin-bottom: 2rem;
+    border-color: #be5501;
+    background-color: #2f2f41;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    color: #be5501;
+}
+
+footer{
+    margin-top: 3rem;
+    color: white;
+}
+
+form{
+    margin: 0;
+}
+
+.btn-outline-hexcale{
+    color:#be5501;
+    border-color: #be5501;
+}
+
+.btn-outline-hexcale:hover{
+    background-color: #be5501;
+    color: white;
+}
